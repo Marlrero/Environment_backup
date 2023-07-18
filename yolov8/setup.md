@@ -96,7 +96,7 @@
     $ sudo ldconfig   
     $ ldconfig -N -v $(sed 's/:/ /' <<< $LD_LIBRARY_PATH) 2>/dev/null | grep libcudnn   
     ```
-  -  결과  
+  - 결과  
     ``` bash
     libcudnn_ops_infer.so.8 -> libcudnn_ops_infer.so.8.5.0  
     libcudnn_cnn_infer.so.8 -> libcudnn_cnn_infer.so.8.5.0  
