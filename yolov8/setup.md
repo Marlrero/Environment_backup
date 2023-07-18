@@ -129,7 +129,13 @@
   exit()
   ```
 
-## YOLO 설치 (v5, X, v8)
+## YOLO 설치 (v5, X, v8) (https://docs.ultralytics.com/quickstart/)
   ``` bash
   (conda_env) $ pip install ultralytics
   ```
+
+## Reference
+  - https://vividian.net/2022/11/1111
+  - https://jeo96.tistory.com/entry/Ubuntu-2004-CUDA-%EC%9E%AC%EC%84%A4%EC%B9%98
+  - https://thinkinfi.com/train-yolov8-on-custom-dataset-in-windows-gpu/
+  - https://jimmy-ai.tistory.com/224
