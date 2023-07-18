@@ -98,21 +98,22 @@
     ```
   -  결과
     ```
-    libcudnn_ops_infer.so.8 -> libcudnn_ops_infer.so.8.5.0
-    libcudnn_cnn_infer.so.8 -> libcudnn_cnn_infer.so.8.5.0
-    libcudnn_cnn_train.so.8 -> libcudnn_cnn_train.so.8.5.0
-    libcudnn_adv_infer.so.8 -> libcudnn_adv_infer.so.8.5.0
-    libcudnn_adv_train.so.8 -> libcudnn_adv_train.so.8.5.0
-    libcudnn.so.8 -> libcudnn.so.8.5.0
-    libcudnn_ops_train.so.8 -> libcudnn_ops_train.so.8.5.0
-    libcudnn_cnn_train.so.8 -> libcudnn_cnn_train.so.8.9.3
-    libcudnn_adv_train.so.8 -> libcudnn_adv_train.so.8.9.3
-    libcudnn_ops_infer.so.8 -> libcudnn_ops_infer.so.8.9.3
-    libcudnn_cnn_infer.so.8 -> libcudnn_cnn_infer.so.8.9.3
-    libcudnn_adv_infer.so.8 -> libcudnn_adv_infer.so.8.9.3
-    libcudnn.so.8 -> libcudnn.so.8.9.3
+    libcudnn_ops_infer.so.8 -> libcudnn_ops_infer.so.8.5.0  
+    libcudnn_cnn_infer.so.8 -> libcudnn_cnn_infer.so.8.5.0  
+    libcudnn_cnn_train.so.8 -> libcudnn_cnn_train.so.8.5.0  
+    libcudnn_adv_infer.so.8 -> libcudnn_adv_infer.so.8.5.0  
+    libcudnn_adv_train.so.8 -> libcudnn_adv_train.so.8.5.0  
+    libcudnn.so.8 -> libcudnn.so.8.5.0  
+    libcudnn_ops_train.so.8 -> libcudnn_ops_train.so.8.5.0  
+    libcudnn_cnn_train.so.8 -> libcudnn_cnn_train.so.8.9.3  
+    libcudnn_adv_train.so.8 -> libcudnn_adv_train.so.8.9.3  
+    libcudnn_ops_infer.so.8 -> libcudnn_ops_infer.so.8.9.3  
+    libcudnn_cnn_infer.so.8 -> libcudnn_cnn_infer.so.8.9.3  
+    libcudnn_adv_infer.so.8 -> libcudnn_adv_infer.so.8.9.3  
+    libcudnn.so.8 -> libcudnn.so.8.9.3  
     libcudnn_ops_train.so.8 -> libcudnn_ops_train.so.8.9.3
     ```
+    
 
 ## pytorch 2.0.1 stable 설치 및 CUDA 연결 확인 (https://pytorch.org/get-started/locally/)
   ``` bash
